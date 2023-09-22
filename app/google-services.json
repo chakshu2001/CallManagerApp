@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107138741464",
+    "project_id": "day20assignment-296ce",
+    "storage_bucket": "day20assignment-296ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107138741464:android:4335630234a6b0ea1593ad",
+        "android_client_info": {
+          "package_name": "com.example.callmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7SO7RnuTg0R3Bo_SWPMDX0Dx8SmZRrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
